@@ -15,23 +15,35 @@
 <a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
 
 
-calon ilmuwawan data harus belajar berpikr ilmuwan sungguhan. PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
+PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
 penting untuk memahami ALASANNYA SEBANYAK MUNGKIN. ilmu pengetahuan tradisional yang digerakkan oleh hipotesis
 didasarkan pada pertanyaan khusus dari dunia dan kemudian menghasilkan data spesifik yang diperlukan untuk
-mengkonfirmasi atau menolak, dan skrng ditambah  oleh ilmu yang berdasarkan data, yang sebaliknya berfokus pada
+mengkonfirmasi atau menolak, dan skrng ditambah oleh ilmu yang berdasarkan data, yang sebaliknya berfokus pada
 menghasilkan DATA pada SKALA atau RESOLUSI yang sebelumnya tidak pernah terdengar, dengan keyakinan bahwa
-penemuan baru akan datang segera setlah seseorang dpt melhtnya.
-KEDUA CARA=>
-A. Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
-B. Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
+penemuan baru akan datang segera
+
 
 1.2 mengajukan pertanyaan apa sih yang menarik dari Data
 imuwan data yang baik membangun/mengembangkan keingintahuan yang melekat tentang dunia di sekitar mereka.
 mereka menikmati berbicara dengan orang2 yang datanya bekerja dengan mereka. dan mereka bertanya ke mereka dengn pertnyaan
 => **
-1. apa hal paling keren yang telah anda pelajari tentang bidang ini?
-2. mengapa anda tertarik dengan hal itu? apa yang ingin anda pelajari dengan menganalisa himpunan data?
+
+1. Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
+2. Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
+3. apa hal paling keren yang telah anda pelajari tentang bidang ini?
+4. mengapa anda tertarik dengan hal itu? apa yang ingin anda pelajari dengan menganalisa himpunan data?
 dan data scientist selalu mengajukan pertanyaan **
+
+<div class="container">
+  <img src="VACAtion.jpg" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>Muhammad Doni</h1>
+    <p>Drive your business with email marketing and automation</p>
+  </div>
+</div>
+
+
+<a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
 
 data scientis mempunyai ketertarikan yang luas, mereka membaca majalah/koran setiap hari untuk mendapatkan
 PERSPEKTIVE YANG LEBIH LUAS TENTANG APA YANG DIPERBINCANGKAN, ATAU MENJADI TRENDING. Mereka mengerti
