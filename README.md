@@ -63,3 +63,7 @@ pertanyaan, tetapi data ilmuwan adalah orang2 yang mengajukan pertnyaan sprti =>
 3. mereka selalu menanyakan esensinya apa sih, stlh tau esensinya, mereka bertnya tntng alasannya
 4. dan mereka selalu bertnya, membuat hipotesa lalu mengujinya apakh hipotesa itu benar, tp parameternya
 bukan benar, atau salah melainkan pengetahuan/wawasan baru
+
+</body>
+</head>
+</html>
