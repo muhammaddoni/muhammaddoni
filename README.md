@@ -11,7 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first SVG</h1>
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
+</body>
+</html>
 ## Header 2
 ### Header 3
 
