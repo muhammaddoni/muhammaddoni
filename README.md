@@ -20,7 +20,7 @@
 }
 </style>
 <div class="container">
-  <img src="notebook.jpg" alt="Notebook" style="width:100%;">
+  <img src="VACAtion.jpg" alt="Notebook" style="width:100%;">
   <div class="content">
     <h1>Heading</h1>
     <p>Lorem ipsum..</p>
