@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/muhammaddoni/muhammaddoni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to muhammaddoni Pages
 
 <a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
 
