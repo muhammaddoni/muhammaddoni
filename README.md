@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/muhammaddoni/muhammaddoni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
+
 calon ilmuwawan data harus belajar berpikr ilmuwan sungguhan. PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
 penting untuk memahami ALASANNYA SEBANYAK MUNGKIN. ilmu pengetahuan tradisional yang digerakkan oleh hipotesis
 didasarkan pada pertanyaan khusus dari dunia dan kemudian menghasilkan data spesifik yang diperlukan untuk
