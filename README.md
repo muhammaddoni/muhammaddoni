@@ -14,19 +14,18 @@
 
 <a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
 
+
 calon ilmuwawan data harus belajar berpikr ilmuwan sungguhan. PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
 penting untuk memahami ALASANNYA SEBANYAK MUNGKIN. ilmu pengetahuan tradisional yang digerakkan oleh hipotesis
 didasarkan pada pertanyaan khusus dari dunia dan kemudian menghasilkan data spesifik yang diperlukan untuk
 mengkonfirmasi atau menolak, dan skrng ditambah  oleh ilmu yang berdasarkan data, yang sebaliknya berfokus pada
 menghasilkan DATA pada SKALA atau RESOLUSI yang sebelumnya tidak pernah terdengar, dengan keyakinan bahwa
-penemuan baru akan datang segera setlah seseorang dpt melhtnya. KEDUA CARA=>
-=Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
-=Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
+penemuan baru akan datang segera setlah seseorang dpt melhtnya.
+KEDUA CARA=>
+A. Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
+B. Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
 
-
-___
-
-1.2 asking pertanyaan menarik dari Data
+1.2 mengajukan pertanyaan apa sih yang menarik dari Data
 imuwan data yang baik membangun/mengembangkan keingintahuan yang melekat tentang dunia di sekitar mereka.
 mereka menikmati berbicara dengan orang2 yang datanya bekerja dengan mereka. dan mereka bertanya ke mereka dengn pertnyaan
 => **
