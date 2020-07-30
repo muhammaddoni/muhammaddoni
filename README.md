@@ -2,47 +2,36 @@
 
 You can use the [editor on GitHub](https://github.com/muhammaddoni/muhammaddoni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+calon ilmuwawan data harus belajar berpikr ilmuwan sungguhan. PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
+penting untuk memahami ALASANNYA SEBANYAK MUNGKIN. ilmu pengetahuan tradisional yang digerakkan oleh hipotesis
+didasarkan pada pertanyaan khusus dari dunia dan kemudian menghasilkan data spesifik yang diperlukan untuk
+mengkonfirmasi atau menolak, dan skrng ditambah  oleh ilmu yang berdasarkan data, yang sebaliknya berfokus pada
+menghasilkan DATA pada SKALA atau RESOLUSI yang sebelumnya tidak pernah terdengar, dengan keyakinan bahwa
+penemuan baru akan datang segera setlah seseorang dpt melhtnya. KEDUA CARA=>
+=Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
+=Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
 
-```markdown
-Syntax highlighted code block
+1.2 asking pertanyaan menarik dari Data
+imuwan data yang baik membangun/mengembangkan keingintahuan yang melekat tentang dunia di sekitar mereka.
+mereka menikmati berbicara dengan orang2 yang datanya bekerja dengan mereka. dan mereka bertanya ke mereka dengn pertnyaan
+=> **
+1. apa hal paling keren yang telah anda pelajari tentang bidang ini?
+2. mengapa anda tertarik dengan hal itu? apa yang ingin anda pelajari dengan menganalisa himpunan data?
+dan data scientist selalu mengajukan pertanyaan **
 
-<!DOCTYPE html>
-<html>
-<body>
+data scientis mempunyai ketertarikan yang luas, mereka membaca majalah/koran setiap hari untuk mendapatkan
+PERSPEKTIVE YANG LEBIH LUAS TENTANG APA YANG DIPERBINCANGKAN, ATAU MENJADI TRENDING. Mereka mengerti
+dunia adalah tempt yang menarik. Pengembang perngkat lunak tidak benar2 didorong untuk mengajukan
+pertanyaan, tetapi data ilmuwan adalah orang2 yang mengajukan pertnyaan sprti =>
+1. hal apa yang dapat anda pelajari dari kumpulan data yang diberikan
+2. apa yang anda /orang2 anda ingin ketahui tentang dunia?
+3. Apa artinya bagi anda setelah mengetahui?
 
-<h1>My first SVG</h1>
-
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
-
-</body>
-</html>
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muhammaddoni/muhammaddoni/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<-- RECORD=>1. rasa keingintahuan para data scentist sangat tinggi
+2. awal mula/dasar untuk menjawab dari rasa keingintahuan mereka yaitu diawali dari dunia disekitar mereka
+3. mereka selalu menanyakan esensinya apa sih, stlh tau esensinya, mereka bertnya tntng alasannya
+4. dan mereka selalu bertnya, membuat hipotesa lalu mengujinya apakh hipotesa itu benar, tp parameternya
+bukan benar, atau salah melainkan pengetahuan/wawasan baru
