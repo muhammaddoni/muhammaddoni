@@ -6,7 +6,7 @@
 <div class="container">
   <img src="VACAtion.jpg" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h1>Muhammad Doni</h1>
+    <h1>Taxi Mail</h1>
     <p>Drive your business with email marketing and automation</p>
   </div>
 </div>
@@ -36,7 +36,7 @@ dan data scientist selalu mengajukan pertanyaan **
 
 <div class="container">
   <div class="content">
-    <h1>Muhammad Doni</h1>
+    <h1>Taxi Mail</h1>
     <p>Drive your business with email marketing and automation</p>
   </div>
 </div>
