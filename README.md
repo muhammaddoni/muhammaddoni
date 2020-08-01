@@ -4,59 +4,48 @@
     <body>
  
 <div class="container">
-  <img src="VACAtion.jpg" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h1>Taxi Mail</h1>
-    <p>Drive your business with email marketing and automation</p>
+    <h1>GRAMEDIA</h1>
+    <p>DISKON ALL BOOK</p>
   </div>
 </div>
 
 
-<a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
+<a href="https://click.accesstrade.co.id/adv.php?rk=00131n000lkf" target="_blank"><img border="0" src="https://imp.accesstrade.co.id/img.php?rk=00131n000lkf" /></a>
 
 
-PEKERJAAN ANDA AKAN MENGUBAH ANGKA MENJADI WAWASAN. 
-penting untuk memahami ALASANNYA SEBANYAK MUNGKIN. ilmu pengetahuan tradisional yang digerakkan oleh hipotesis
-didasarkan pada pertanyaan khusus dari dunia dan kemudian menghasilkan data spesifik yang diperlukan untuk
-mengkonfirmasi atau menolak, dan skrng ditambah oleh ilmu yang berdasarkan data, yang sebaliknya berfokus pada
-menghasilkan DATA pada SKALA atau RESOLUSI yang sebelumnya tidak pernah terdengar, dengan keyakinan bahwa
-penemuan baru akan datang segera
+OOP merupakan suatu metode BERORIENTASI OBJEK dan merupakan PARADIGMA PEMROGRAMAN berdasarkan konsep
+"OBJEK", yang dapat berisi
+*1.DATA dalam bentuk field atau juga disebut sbg atribut(string/integer);
+*2.serta kode dlam bentuk fungsi/prosedur atau juga dikenal sebagai method
+(*1+*2) semua DATA dan FUNGSI dibungkus ke dalam class/objek.
+setiap objek dapat menerima pesan, memproses data, dan mengirim pesan ke objek lainnya
+Model data berorientasi objek dikatakan dapat memberi fleksibilitas yang lebih, kemudahan mengubah program, dan digunakan luas dalam teknik peranti lunak skala besar.
+OOP menyelesaikan MASALAH PROGRAM DENGAN MENYEDIAKAN OBJEK-OBJEK YANG SALING BERKAITAN, untuk semakin mudah dimengerti mari membaginya menjadi lebih kecil, yaitu;
+1. Class merupakan wadah/tempat berkumpulnya atribut, dan method. atribut, dan method
+disusun ke dalam satu kelompok dan ini disebut CLASS/kelompok=penggolongan.
+jadi cara kerjnya itu sama seperti misal kamu ingin membungkus hewan yang bertipe karnivora, maka jenis
+hewan yang bertipe karnivora harus diletakkan di class yang bernama karnivora, 
+	class karnivora: #template #wadah
+    pass #ketika statment pass dieksekusi tidak ada yang terjadii, tetapi anda menghindari kesalahan ketika kode kosong atau tidak diizinkan
+2. Method merupakan sebuah fungsi/prosedur yang digunakan didalam class/objek digunakan untuk mengubah 
+nilai atribut suatu object
+	karnivora1.nama
+3. Atribute dalam python disebut juga dengan data, data berisi tipe data (string, integer, etc)
+	karnivora1.name = "singa"
+	karnivora1.color = "merah"
 
 
-1.2 mengajukan pertanyaan apa sih yang menarik dari Data
-imuwan data yang baik membangun/mengembangkan keingintahuan yang melekat tentang dunia di sekitar mereka.
-mereka menikmati berbicara dengan orang2 yang datanya bekerja dengan mereka. dan mereka bertanya ke mereka dengn pertnyaan
-=> **
-
-1. Diberi masalah, data apa yang tersedia yang membantu kami menjawabnya?
-2. Dengan serangkaian data, masalah menarik apa yang bisa kita terapkan
-3. apa hal paling keren yang telah anda pelajari tentang bidang ini?
-4. mengapa anda tertarik dengan hal itu? apa yang ingin anda pelajari dengan menganalisa himpunan data?
-dan data scientist selalu mengajukan pertanyaan **
 
 <div class="container">
   <div class="content">
-    <h1>Taxi Mail</h1>
-    <p>Drive your business with email marketing and automation</p>
+    <h1>GRAMEDIA</h1>
+    <p>DISKON ALL BOOK</p>
   </div>
 </div>
 
 
-<a href="https://click.accesstra.de/adv.php?rk=0015tg000lkf" target="_blank"><img src="https://imp.accesstra.de/img.php?rk=0015tg000lkf" border="0"/></a>
-
-data scientis mempunyai ketertarikan yang luas, mereka membaca majalah/koran setiap hari untuk mendapatkan
-PERSPEKTIVE YANG LEBIH LUAS TENTANG APA YANG DIPERBINCANGKAN, ATAU MENJADI TRENDING. Mereka mengerti
-dunia adalah tempt yang menarik. Pengembang perngkat lunak tidak benar2 didorong untuk mengajukan
-pertanyaan, tetapi data ilmuwan adalah orang2 yang mengajukan pertnyaan sprti =>
-1. hal apa yang dapat anda pelajari dari kumpulan data yang diberikan
-2. apa yang anda /orang2 anda ingin ketahui tentang dunia?
-3. Apa artinya bagi anda setelah mengetahui?
-
-<-- RECORD=>1. rasa keingintahuan para data scentist sangat tinggi
-2. awal mula/dasar untuk menjawab dari rasa keingintahuan mereka yaitu diawali dari dunia disekitar mereka
-3. mereka selalu menanyakan esensinya apa sih, stlh tau esensinya, mereka bertnya tntng alasannya
-4. dan mereka selalu bertnya, membuat hipotesa lalu mengujinya apakh hipotesa itu benar, tp parameternya
-bukan benar, atau salah melainkan pengetahuan/wawasan baru
+<a href="https://click.accesstrade.co.id/adv.php?rk=00131n000lkf" target="_blank"><img border="0" src="https://imp.accesstrade.co.id/img.php?rk=00131n000lkf" /></a>
 
 </body>
 </head>
